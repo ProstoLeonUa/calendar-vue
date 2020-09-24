@@ -1,0 +1,100 @@
+[{
+		"id": "1",
+		"name": "User1",
+		"email": "user@user.com",
+		"registration_data": "10.10.2020",
+		"last_active_data": "10.10.2020",
+		"last_action": "view_landing_course1",
+		"product": "Как наладить отнош"
+	},
+	{
+		"id": "2",
+		"name": "User2",
+		"email": "user@user.com",
+		"registration_data": "10.10.2020",
+		"last_active_data": "10.10.2020",
+		"last_action": "view_landing_course1",
+		"product": "Как наладить отнош"
+	},
+	{
+		"id": "3",
+		"name": "User3",
+		"email": "user@user.com",
+		"registration_data": "10.10.2020",
+		"last_active_data": "10.10.2020",
+		"last_action": "view_landing_course1",
+		"product": "Как наладить отнош"
+	},
+	{
+		"id": "4",
+		"name": "User4",
+		"email": "user@user.com",
+		"registration_data": "10.10.2020",
+		"last_active_data": "10.10.2020",
+		"last_action": "view_landing_course1",
+		"product": "Как наладить отнош"
+	},
+	{
+		"id": "5",
+		"name": "User5",
+		"email": "user@user.com",
+		"registration_data": "10.10.2020",
+		"last_active_data": "10.10.2020",
+		"last_action": "view_landing_course1",
+		"product": "Как наладить отнош"
+	},
+	{
+		"id": "6",
+		"name": "User6",
+		"email": "user@user.com",
+		"registration_data": "10.10.2020",
+		"last_active_data": "10.10.2020",
+		"last_action": "view_landing_course1",
+		"product": "Как наладить отнош"
+	},
+	{
+		"id": "7",
+		"name": "User7",
+		"email": "user@user.com",
+		"registration_data": "10.10.2020",
+		"last_active_data": "10.10.2020",
+		"last_action": "view_landing_course1",
+		"product": "Как наладить отнош"
+	},
+	{
+		"id": "8",
+		"name": "User8",
+		"email": "user@user.com",
+		"registration_data": "10.10.2020",
+		"last_active_data": "10.10.2020",
+		"last_action": "view_landing_course1",
+		"product": "Как наладить отнош"
+	},
+	{
+		"id": "9",
+		"name": "User9",
+		"email": "user@user.com",
+		"registration_data": "10.10.2020",
+		"last_active_data": "10.10.2020",
+		"last_action": "view_landing_course1",
+		"product": "Как наладить отнош"
+	},
+	{
+		"id": "10",
+		"name": "User10",
+		"email": "user@user.com",
+		"registration_data": "10.10.2020",
+		"last_active_data": "10.10.2020",
+		"last_action": "view_landing_course1",
+		"product": "Как наладить отнош"
+	},
+	{
+		"id": "11",
+		"name": "User11",
+		"email": "user@user.com",
+		"registration_data": "10.10.2020",
+		"last_active_data": "10.10.2020",
+		"last_action": "view_landing_course1",
+		"product": "Как наладить отнош"
+	}
+]
